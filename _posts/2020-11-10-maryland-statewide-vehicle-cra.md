@@ -1,7 +1,7 @@
 ---
-title: Maryland Statewide Vehicle Crashes - Circum_person
-created: '2020-11-10T17:23:50.649418'
-modified: '2020-11-10T17:23:50.649428'
+title: Maryland Statewide Vehicle Crashes - Circum_weather
+created: '2020-11-10T17:25:20.522012'
+modified: '2020-11-10T17:25:20.522019'
 state: active
 type: dataset
 tags:
@@ -12,13 +12,13 @@ tags:
   - Highway
   - Maryland State Police
   - Msp
-  - Person
   - Roadway
+  - Weather
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/2vue-d9ad/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/q6mx-6mk8/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/2vue-d9ad/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/q6mx-6mk8/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
