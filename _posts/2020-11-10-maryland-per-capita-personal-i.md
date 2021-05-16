@@ -1,23 +1,22 @@
 ---
-title: >-
-  Maryland Per Capita Personal Income Projections (in Constant 2009
-  Dollars)1970-2040
-created: '2020-11-10T17:25:15.892175'
-modified: '2020-11-10T17:25:15.892182'
+title: Maryland Per Capita Personal Income (Current Dollars) 2010-2018
+created: '2020-11-10T17:25:15.450949'
+modified: '2020-11-10T17:25:15.450960'
 state: active
 type: dataset
 tags:
+  - Capita
+  - Current
   - Income
   - Mdp
-  - Personal
+  - Per
   - Planning
-  - Projections
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/p5hr-8uyb/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/nv7y-8663/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/p5hr-8uyb/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/nv7y-8663/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Historical and Projected Per Capita Personal Income for Maryland and its Jurisdictions (in constant 2009 Dollars): 1970 - 2040. Historical data, 1970 - 2016, from the U.S. Bureau of Economic Analysis. Projections by the the Maryland Department of Planning.
+Maryland Per Capita Personal Income (Current Dollars) from 2010-2018. Source U.S. Bureau of Economic Analysis
