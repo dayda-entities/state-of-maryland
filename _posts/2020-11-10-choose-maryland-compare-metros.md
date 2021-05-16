@@ -1,24 +1,23 @@
 ---
-title: Choose Maryland  Compare Metros - Workforce
-created: '2020-11-10T17:24:04.975448'
-modified: '2020-11-10T17:24:04.975459'
+title: Choose Maryland  Compare Metros - Quality of Life
+created: '2020-11-10T17:25:53.615700'
+modified: '2020-11-10T17:25:53.615708'
 state: active
 type: dataset
 tags:
   - Baltimore
   - Compare
-  - Employment
-  - Labor
+  - Home
+  - Housing
   - Maryland
   - Metro
-  - Salary
-  - Unemployment
+  - Price
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/6s7m-7deg/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/yjpu-x8hr/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/6s7m-7deg/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/yjpu-x8hr/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Workforce summary - employed, unemployed, and average wages.
+Key quality of life indicators - housing costs, arts.
