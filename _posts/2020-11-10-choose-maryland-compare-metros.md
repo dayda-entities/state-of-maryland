@@ -1,24 +1,23 @@
 ---
-title: Choose Maryland  Compare Metros - Education
-created: '2020-11-10T17:25:37.136548'
-modified: '2020-11-10T17:25:37.136557'
+title: Choose Maryland  Compare Metros - Economy
+created: '2020-11-10T17:24:42.363198'
+modified: '2020-11-10T17:24:42.363208'
 state: active
 type: dataset
 tags:
-  - Bachelor
   - Baltimore
   - Compare
-  - Degree
-  - Education
-  - High School
+  - Economy
+  - Gdp
+  - Gross Domestic Product
   - Maryland
   - Metro
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/tybw-nzqj/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/evyv-ezm8/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/tybw-nzqj/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/evyv-ezm8/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Educational attainment rates - high school diploma and bachelor's degree.
+Economic production - GDP
