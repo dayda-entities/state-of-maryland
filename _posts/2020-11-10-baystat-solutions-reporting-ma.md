@@ -1,12 +1,13 @@
 ---
-title: 'BayStat Solutions Reporting - Maryland Dept. of Agriculture, 2000 - 2014'
-created: '2020-11-10T17:25:36.531991'
-modified: '2020-11-10T17:25:36.531998'
+title: BayStat Solutions Reporting - Maryland Dept. of the Environment 2003 - 2014
+created: '2020-11-10T17:24:18.082288'
+modified: '2020-11-10T17:24:18.082298'
 state: active
 type: dataset
 tags:
   - Basin
   - Bay
+  - Baystat
   - Best
   - Bmp
   - Chesapeake
@@ -15,10 +16,10 @@ tags:
   - Solutions
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/tsya-25ee/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/ab68-n7ja/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/tsya-25ee/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/ab68-n7ja/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Chesapeake Bay restoration solutions, Best Management Practices (BMPs), progress reporting by tributary basin. All units in acres unless otherwise noted.
+Chesapeake Bay restoration solutions, Best Management Practices (BMPs), progress reporting by tributary basin.
