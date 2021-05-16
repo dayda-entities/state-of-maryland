@@ -1,16 +1,28 @@
 ---
-title: Maryland Statewide Vehicle Crashes CY2018 Quarter 3
-created: '2020-11-10T17:24:16.802315'
-modified: '2020-11-10T17:24:16.802322'
+title: Maryland Statewide Vehicle Crashes - Vehicle Details
+created: '2020-11-10T17:25:09.899332'
+modified: '2020-11-10T17:25:09.899342'
 state: active
 type: dataset
-tags: []
+tags:
+  - Accident
+  - Car
+  - Crash
+  - Department Of Maryland State Police
+  - Highway
+  - Maryland State Police
+  - Msp
+  - Public Safety
+  - Roadway
+  - Traffic
+  - Vehicle
+  - Vehicle Safety
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/9vxr-9f8m/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/mhft-5t5y/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/9vxr-9f8m/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/mhft-5t5y/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This file contains the crash data for Maryland from July 2018 through August 2018.  Data is accurate as of the creation of the data.  Only Approved Crash reports have been included in the file.
+Crash data for Maryland from January 2015 through June 2020. Data is accurate as of the creation of the data. Only Approved Crash reports have been included in the file. Related datasets include Statewide Vehicle Crashes (https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu) and Statewide Vehicle Crashes - Person Details (Anonymized) (https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes-Person-Details-/py4c-dicf)
