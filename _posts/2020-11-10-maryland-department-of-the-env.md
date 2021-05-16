@@ -1,21 +1,18 @@
 ---
 title: >-
-  Maryland Department of the Environment GOPI Calendar Year Performance Measure
-  Dashboard 2010-2015
-created: '2020-11-10T17:25:21.387513'
-modified: '2020-11-10T17:25:21.387521'
+  Maryland Department of the Environment GOPI Performance Measure Dashboard
+  2010-2015
+created: '2020-11-10T17:25:35.604881'
+modified: '2020-11-10T17:25:35.604892'
 state: active
 type: dataset
-tags:
-  - Environment
-  - Lead
-  - Performance
+tags: []
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/qegv-e8qs/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/tk5h-jegj/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/qegv-e8qs/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/tk5h-jegj/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This data set reported the performance measures for the Maryland Department of the Environment that were reported to the Governor's Office of Performance Improvement.  These measures were updated annually, on a calendar year basis, form 2010-2015
+This data set reported the performance measures for the Maryland Department of the Environment that were being reported to the Governor's Office of Performance Improvement.  These measures were updated annually, for the fiscal years 2010-2015.
