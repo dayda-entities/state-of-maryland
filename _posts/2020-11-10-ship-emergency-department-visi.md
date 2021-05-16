@@ -1,22 +1,23 @@
 ---
-title: SHIP Emergency Department Visits For Addictions-Related Conditions 2008-2017
-created: '2020-11-10T17:25:11.839116'
-modified: '2020-11-10T17:25:11.839127'
+title: SHIP Emergency Department Visit Rate Due To Diabetes 2008-2017
+created: '2020-11-10T17:24:38.611184'
+modified: '2020-11-10T17:24:38.611196'
 state: active
 type: dataset
 tags:
-  - Addictions
+  - Diabetes
   - Ed
+  - Emergency Department
   - Hscrc
   - Mdh
   - Ship
   - State Health Improvement Process
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/n4s3-z5pf/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/e6q8-2q3b/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/n4s3-z5pf/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/e6q8-2q3b/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Emergency Department Visits For Addictions-Related Conditions - This indicator shows the rate of emergency department visits related to substance abuse disorders* (per 100,000 population). Substance abuse problems can place a heavy burden on the healthcare system, particularly when persons in crisis utilize emergency departments instead of other sources of care when available. In Maryland, there were 96,991 emergency department visits for substance-related disorders from 2012-2014.*Diagnoses include alcohol-related disorders and drug-related disorders.
+Emergency Department Visit Rate Due To Diabetes - This indicator shows the emergency department visit rate due to diabetes (per 100,000 population). Diabetes can lead to blindness, heart, and blood vessel disease, stroke, kidney failure, amputations, nerve damage, pregnancy complications, and birth defects. Emergency department visits for diabetes-related complications may signify that the disease is uncontrolled. In Maryland, there were 12,907 emergency department visits for primary diagnosis of diabetes in 2014.
