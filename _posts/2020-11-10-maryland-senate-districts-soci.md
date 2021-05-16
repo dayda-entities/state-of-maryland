@@ -1,16 +1,28 @@
 ---
-title: Maryland Senate Districts-Socioeconomic Charatcteristics-5-Year ACS
-created: '2020-11-10T17:25:43.852594'
-modified: '2020-11-10T17:25:43.852603'
+title: Maryland Senate Districts Socioeconomic Characteristics
+created: '2020-11-10T17:25:45.758643'
+modified: '2020-11-10T17:25:45.758651'
 state: active
 type: dataset
-tags: []
+tags:
+  - Educational Attainment
+  - Gender
+  - Households And Housing Units
+  - Income
+  - Labor Force
+  - Maryland Department Of Planning
+  - Mdp
+  - Population
+  - Poverty
+  - Race
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/vtp7-8s5p/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/wd4v-jxau/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/vtp7-8s5p/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/wd4v-jxau/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Selected demographic and socioeconomic data for Maryland's Senate Districts based on the most recent 5-year release from the U.S. Census Bureau's American Community Survey
+Maryland Senate Districts data for population, gender, race, labor force, educational attainment, income, poverty, households and housing units.
+
+Data Source: 2012 -2016 American Community Survey, 5 Year estimates.
