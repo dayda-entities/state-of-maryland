@@ -1,21 +1,22 @@
 ---
-title: Community Investment Tax Credits - Image Carousel
-created: '2020-11-10T17:25:02.283804'
-modified: '2020-11-10T17:25:02.283815'
+title: Community Investment Tax Credits - Awardee Spotlight
+created: '2020-11-10T17:24:49.864126'
+modified: '2020-11-10T17:24:49.864133'
 state: active
 type: dataset
 tags:
+  - Awardees
   - Citc
   - Community Investment Tax Credits
   - Dhcd
-  - Images
   - Maryland
+  - Partners
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/jmj7-9tkk/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/gept-eabi/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/jmj7-9tkk/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/gept-eabi/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Shares highlight projects on the Department of Housing and Community Development Dashboard for COMMUNITY INVESTMENT TAX CREDITS (CITC).
+Shares highlighted partners on the Department of Housing and Community Development Dashboard for COMMUNITY INVESTMENT TAX CREDITS (CITC).
