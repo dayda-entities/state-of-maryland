@@ -1,7 +1,7 @@
 ---
-title: Council on Open Data Meeting Content September 2019
-created: '2020-11-10T17:25:53.039391'
-modified: '2020-11-10T17:25:53.039401'
+title: Council on Open Data Meeting Content December 2018
+created: '2020-11-10T17:23:48.953072'
+modified: '2020-11-10T17:23:48.953083'
 state: active
 type: dataset
 tags:
@@ -11,9 +11,9 @@ tags:
   - Meetings
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/yfk4-a7am/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/2km2-yd5w/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/yfk4-a7am/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/2km2-yd5w/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
