@@ -1,7 +1,7 @@
 ---
-title: Maryland Statewide Vehicle Crashes - Circum_road
-created: '2020-11-10T17:23:49.922146'
-modified: '2020-11-10T17:23:49.922153'
+title: Maryland Statewide Vehicle Crashes - Circum_vehicle
+created: '2020-11-10T17:24:12.419759'
+modified: '2020-11-10T17:24:12.419771'
 state: active
 type: dataset
 tags:
@@ -12,13 +12,13 @@ tags:
   - Highway
   - Maryland State Police
   - Msp
-  - Road
   - Roadway
+  - Vehicle
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/2tch-tbsk/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/8qhq-gn9a/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/2tch-tbsk/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/8qhq-gn9a/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
