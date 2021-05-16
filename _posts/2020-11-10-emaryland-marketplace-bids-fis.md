@@ -1,7 +1,7 @@
 ---
-title: eMaryland Marketplace Bids - Fiscal Year 2019
-created: '2020-11-10T17:25:36.649115'
-modified: '2020-11-10T17:25:36.649125'
+title: eMaryland Marketplace Bids - Fiscal Year 2012
+created: '2020-11-10T17:24:34.441065'
+modified: '2020-11-10T17:24:34.441072'
 state: active
 type: dataset
 tags:
@@ -12,10 +12,10 @@ tags:
   - Procurement
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/ttg5-zfzj/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/d7pu-ebad/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/ttg5-zfzj/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/d7pu-ebad/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-eMaryland Marketplace Bids for Fiscal Year 2019 (July 1, 2018 through June 30, 2019)
+eMaryland Marketplace Bids for Fiscal Year 2012 (July 1, 2011 through June 30, 2012)
