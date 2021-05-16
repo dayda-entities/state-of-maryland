@@ -1,22 +1,22 @@
 ---
-title: Choose Maryland  Compare States - Workforce
-created: '2020-11-10T17:23:58.743650'
-modified: '2020-11-10T17:23:58.743657'
+title: Choose Maryland  Compare States - Utilities
+created: '2020-11-10T17:25:31.471912'
+modified: '2020-11-10T17:25:31.471923'
 state: active
 type: dataset
 tags:
   - Compare
-  - Employment
-  - Labor Force
+  - Electric
   - Maryland
+  - Natural Gas
   - State
-  - Unemployment
+  - Utilities
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/5esm-neyf/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/su2w-hm7s/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/5esm-neyf/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/su2w-hm7s/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Workforce summary - employed, unemployed, participation rates, STEM employment.
+Average industrial and commercial unit prices for natural gas and electric energy.
