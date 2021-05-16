@@ -1,7 +1,7 @@
 ---
-title: Violent Crime & Property Crime by Municipality 2000 to Present
-created: '2020-11-10T17:23:49.270465'
-modified: '2020-11-10T17:23:49.270476'
+title: Violent Crime & Property Crime by County 1975 to Present
+created: '2020-11-10T17:25:03.330080'
+modified: '2020-11-10T17:25:03.330090'
 state: active
 type: dataset
 tags:
@@ -14,9 +14,9 @@ tags:
   - Violent Crime
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/2p5g-xrcb/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/jwfa-fdxs/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/2p5g-xrcb/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/jwfa-fdxs/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
