@@ -1,23 +1,26 @@
 ---
-title: Choose Maryland  Compare Counties - Demographics
-created: '2020-11-10T17:25:16.968109'
-modified: '2020-11-10T17:25:16.968116'
+title: Choose Maryland  Compare Counties - Education
+created: '2020-11-10T17:24:01.030321'
+modified: '2020-11-10T17:24:01.030329'
 state: active
 type: dataset
 tags:
-  - Age
+  - College
   - Compare
   - County
-  - Demographic
-  - Income
+  - Degree
+  - Education
+  - Enrollment
   - Maryland
-  - Population
+  - School
+  - Teacher
+  - University
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/pa7d-u6hs/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/63pe-mygy/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/pa7d-u6hs/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/63pe-mygy/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Population profile - total, rate of change, age, and density.
+K-12 and higher education - enrollment, graduates, expenditures, institutions.
