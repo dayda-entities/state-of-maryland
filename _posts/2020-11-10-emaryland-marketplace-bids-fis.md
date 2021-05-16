@@ -1,7 +1,7 @@
 ---
-title: eMaryland Marketplace Bids - Fiscal Year 2018
-created: '2020-11-10T17:25:17.782796'
-modified: '2020-11-10T17:25:17.782803'
+title: eMaryland Marketplace Bids - Fiscal Year 2017
+created: '2020-11-10T17:25:22.415853'
+modified: '2020-11-10T17:25:22.415864'
 state: active
 type: dataset
 tags:
@@ -12,10 +12,10 @@ tags:
   - Procurement
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/pgna-cxjh/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/qkjf-rv4t/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/pgna-cxjh/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/qkjf-rv4t/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-eMaryland Marketplace Bids for Fiscal Year 2018 (July 1, 2017 through June 30, 2018)
+eMaryland Marketplace Bids for Fiscal Year 2017 (July 1, 2016 through June 30, 2017)
