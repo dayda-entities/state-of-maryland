@@ -1,22 +1,23 @@
 ---
-title: 'Maryland Historical and Projected Households by Jurisdiction, 1970-2045'
-created: '2020-11-10T17:24:09.319647'
-modified: '2020-11-10T17:24:09.319654'
+title: >-
+  Maryland Historical and Projected Total Personal Income (in thousands of
+  Constant 2009 Dollars)1970-2040
+created: '2020-11-10T17:25:54.605372'
+modified: '2020-11-10T17:25:54.605382'
 state: active
 type: dataset
 tags:
-  - Historical
-  - Households
+  - Income
   - Mdp
   - Planning
   - Projections
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/7wje-bxqb/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/yu6n-fkf7/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/7wje-bxqb/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/yu6n-fkf7/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Households Projections for Maryland and the jurisdictions - historical households 1970-2010; projections out to 2040.
-Projections prepared by the Maryland Department of Planning, October 2018.
+Historical and Projected Total Personal Income for Maryland and its Jurisdictions (in thousands of constant 2009 Dollars).
+Historical data, 1970 - 2010, from the U.S.  Bureau of Economic Analysis
