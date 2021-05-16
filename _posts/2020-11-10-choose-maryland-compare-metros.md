@@ -1,22 +1,24 @@
 ---
-title: Choose Maryland  Compare Metros - Demographics
-created: '2020-11-10T17:24:51.535261'
-modified: '2020-11-10T17:24:51.535272'
+title: Choose Maryland  Compare Metros - Education
+created: '2020-11-10T17:25:37.136548'
+modified: '2020-11-10T17:25:37.136557'
 state: active
 type: dataset
 tags:
+  - Bachelor
   - Baltimore
   - Compare
-  - Income
+  - Degree
+  - Education
+  - High School
   - Maryland
   - Metro
-  - Population
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/h2qn-scd8/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/tybw-nzqj/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/h2qn-scd8/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/tybw-nzqj/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Population and income profile - totals, median household.
+Educational attainment rates - high school diploma and bachelor's degree.
