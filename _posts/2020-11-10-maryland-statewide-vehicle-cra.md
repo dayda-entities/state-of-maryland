@@ -1,24 +1,24 @@
 ---
-title: Maryland Statewide Vehicle Crashes - EMS
-created: '2020-11-10T17:25:05.853395'
-modified: '2020-11-10T17:25:05.853403'
+title: Maryland Statewide Vehicle Crashes - Circum_person
+created: '2020-11-10T17:23:50.649418'
+modified: '2020-11-10T17:23:50.649428'
 state: active
 type: dataset
 tags:
   - Accident
-  - Ambulance
   - Car
+  - Circum
   - Crash
-  - Ems
   - Highway
   - Maryland State Police
   - Msp
+  - Person
   - Roadway
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/kit6-b7yi/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/2vue-d9ad/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/kit6-b7yi/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/2vue-d9ad/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
