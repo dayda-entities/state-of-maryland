@@ -1,7 +1,7 @@
 ---
-title: Chesapeake Bay Pollution Loads - Nitrogen
-created: '2020-11-10T17:25:27.155542'
-modified: '2020-11-10T17:25:27.155549'
+title: Chesapeake Bay Pollution Loads - Sediment
+created: '2020-11-10T17:25:48.596962'
+modified: '2020-11-10T17:25:48.596973'
 state: active
 type: dataset
 tags:
@@ -9,16 +9,16 @@ tags:
   - Baystat
   - Causes
   - Chesapeake
-  - Nitrogen
   - Pollution
+  - Sediment
   - Watershed
   - Wip
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/rsrj-4w3t/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/x5pe-335m/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/rsrj-4w3t/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/x5pe-335m/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Nitrogen pollution from contributing sources in Bay watershed, pounds per year. 1985, 2007, and 2009 - 2012 progress; 2017 and 2025 targets. Data source: EPA Phase 5.3.2 Watershed Model.
+Sediment pollution from contributing sources in Bay watershed, tons per year. 1985, 2007, and 2009 - 2012 progress; 2017 and 2025 target loads. Target loads for sediment were not broken out to a scale finer than major basin.  Data source: EPA Phase 5.3.2 Watershed Model.
