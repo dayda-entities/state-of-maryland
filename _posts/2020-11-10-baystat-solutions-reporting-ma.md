@@ -1,7 +1,7 @@
 ---
-title: BayStat Solutions Reporting - Maryland Dept. of Natural Resources 2000 - 2014
-created: '2020-11-10T17:23:57.521934'
-modified: '2020-11-10T17:23:57.521945'
+title: 'BayStat Solutions Reporting - Maryland Dept. of Agriculture, 2000 - 2014'
+created: '2020-11-10T17:25:36.531991'
+modified: '2020-11-10T17:25:36.531998'
 state: active
 type: dataset
 tags:
@@ -15,10 +15,10 @@ tags:
   - Solutions
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/4zqs-i2t2/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/tsya-25ee/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/4zqs-i2t2/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/tsya-25ee/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Chesapeake Bay restoration solutions, Best Management Practices (BMPs), progress reporting by tributary basin. Goals are a subset of the overall Environmental Protection Agency (EPA) Total Maximum Daily Load (TMDL).
+Chesapeake Bay restoration solutions, Best Management Practices (BMPs), progress reporting by tributary basin. All units in acres unless otherwise noted.
