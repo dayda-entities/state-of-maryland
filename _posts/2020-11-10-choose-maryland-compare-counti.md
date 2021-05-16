@@ -1,25 +1,23 @@
 ---
-title: Choose Maryland  Compare Counties - Taxes
-created: '2020-11-10T17:24:15.778499'
-modified: '2020-11-10T17:24:15.778506'
+title: Choose Maryland  Compare Counties - Transportation
+created: '2020-11-10T17:24:57.570307'
+modified: '2020-11-10T17:24:57.570318'
 state: active
 type: dataset
 tags:
+  - Airport
+  - Commute
   - Compare
   - County
-  - Enterprise Zone
-  - Exemption
-  - Income
   - Maryland
-  - One Maryland
-  - Property
-  - Taxes
+  - Transportation
+  - Travel Time
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/9rx9-sduc/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/ief7-i74z/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/9rx9-sduc/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/ief7-i74z/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Taxation - income tax, property tax, exemptions, enterprise zones.
+Workforce travel habits - commute times and destinations.
