@@ -1,22 +1,23 @@
 ---
-title: Maryland Historical and Projected Population by Jurisdiction
-created: '2020-11-10T17:25:14.504718'
-modified: '2020-11-10T17:25:14.504725'
+title: Maryland Historical and Projected Female Population Age 16+ 1970 to 2045
+created: '2020-11-10T17:24:24.290432'
+modified: '2020-11-10T17:24:24.290443'
 state: active
 type: dataset
 tags:
-  - Historical
+  - Age
+  - Female
   - Mdp
   - Planning
   - Population
   - Projections
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/nnwx-dpqi/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/b6zs-qtkb/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/nnwx-dpqi/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/b6zs-qtkb/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Population Projections for Maryland and the jurisdictions - historical population 1970-2010; projections out to 2040.
-Projections prepared by the Maryland Department of Planning, July 2014
+Historical and Projected Male Population 16+ in Maryland and its Jurisdictions 1970-2045, 
+Prepared by the Maryland Department of Planning, October 2018.
