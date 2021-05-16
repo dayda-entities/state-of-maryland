@@ -1,7 +1,7 @@
 ---
-title: Council on Open Data Meeting Content September 2017
-created: '2020-11-10T17:24:38.380558'
-modified: '2020-11-10T17:24:38.380565'
+title: Council on Open Data Meeting Content June 2020
+created: '2020-11-10T17:23:55.431973'
+modified: '2020-11-10T17:23:55.431985'
 state: active
 type: dataset
 tags:
@@ -9,13 +9,12 @@ tags:
   - Council On Open Data
   - Maryland Open Data
   - Meetings
-  - Open Data
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/e6g6-pa22/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/4f65-c247/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/e6g6-pa22/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/4f65-c247/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Council on Open Data Meeting documents including meeting agenda, sign-in sheet, presentation, and minutes.
+Council on Open Data Meeting documents including meeting agenda and presentation.
