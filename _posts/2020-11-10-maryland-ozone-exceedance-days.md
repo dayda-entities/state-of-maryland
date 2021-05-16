@@ -1,7 +1,7 @@
 ---
-title: Maryland Ozone Exceedance Days in 2008
-created: '2020-11-10T17:25:21.768096'
-modified: '2020-11-10T17:25:21.768103'
+title: Maryland Ozone Exceedance Days in 2004
+created: '2020-11-10T17:23:50.990814'
+modified: '2020-11-10T17:23:50.990825'
 state: active
 type: dataset
 tags:
@@ -10,9 +10,9 @@ tags:
   - Ozone
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/qgct-y4xa/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/32zj-iiju/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/qgct-y4xa/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/32zj-iiju/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
