@@ -1,21 +1,20 @@
 ---
-title: Maryland Total Residential Sales 2012 -2015 Zipcode
-created: '2020-11-10T17:24:51.698864'
-modified: '2020-11-10T17:24:51.698871'
+title: Maryland Total Residential Sales 2002-2016
+created: '2020-11-10T17:23:50.466313'
+modified: '2020-11-10T17:23:50.466324'
 state: active
 type: dataset
 tags:
   - Mdp
-  - Mdproperty View
   - Planning
   - Residential
   - Sales
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/h3hk-wep2/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/2vre-ahnq/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/h3hk-wep2/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/2vre-ahnq/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Dataset includes total residential sales by zip code for 2012-2015.  When a zip code crosses a county boundary, it is split into two records by county.
+Total Residential Sales in Maryland from 2002-2016 based on data extracted from MDProperty View. To browse the MDProperty View, click here: http://planning.maryland.gov/msdc/sale_data/saledata.shtml. Data for 2016 will be available at the end of 2017.
