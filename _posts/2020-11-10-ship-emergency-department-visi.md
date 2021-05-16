@@ -1,23 +1,22 @@
 ---
-title: SHIP Emergency Department Visit Rate Due To Diabetes 2008-2017
-created: '2020-11-10T17:24:38.611184'
-modified: '2020-11-10T17:24:38.611196'
+title: SHIP Emergency Department Visit Rate Due To Hypertension 2008-2017
+created: '2020-11-10T17:25:06.121532'
+modified: '2020-11-10T17:25:06.121543'
 state: active
 type: dataset
 tags:
-  - Diabetes
   - Ed
-  - Emergency Department
   - Hscrc
+  - Hypertension
   - Mdh
   - Ship
   - State Health Improvement Process
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/e6q8-2q3b/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/kkwk-z6q5/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/e6q8-2q3b/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/kkwk-z6q5/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Emergency Department Visit Rate Due To Diabetes - This indicator shows the emergency department visit rate due to diabetes (per 100,000 population). Diabetes can lead to blindness, heart, and blood vessel disease, stroke, kidney failure, amputations, nerve damage, pregnancy complications, and birth defects. Emergency department visits for diabetes-related complications may signify that the disease is uncontrolled. In Maryland, there were 12,907 emergency department visits for primary diagnosis of diabetes in 2014.
+Emergency Department Visit Rate Due To Hypertension - This indicator shows the rate of emergency department visits due to hypertension (per 100,000 population). In Maryland, 30% of all deaths were attributed to heart disease and stroke. Heart disease and stroke can be prevented by control of high blood pressure. In Maryland, there were 16,251 emergency department visits for primary diagnosis of hypertension in 2014.
