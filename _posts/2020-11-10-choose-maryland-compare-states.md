@@ -1,26 +1,22 @@
 ---
-title: Choose Maryland  Compare States - Technology
-created: '2020-11-10T17:24:40.919135'
-modified: '2020-11-10T17:24:40.919142'
+title: Choose Maryland  Compare States - Demographics
+created: '2020-11-10T17:24:11.942149'
+modified: '2020-11-10T17:24:11.942160'
 state: active
 type: dataset
 tags:
-  - Awards
   - Compare
-  - Contracts
-  - Development
+  - Demographic
+  - Income
   - Maryland
-  - Obligations
-  - Patents
-  - Research
-  - Spending
+  - Population
   - State
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/enjg-rjqz/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/8mc4-hxm7/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/enjg-rjqz/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/8mc4-hxm7/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Innovation - R&D funding, research awards, and patents.
+Population profile - total, rate of change, age, and density.
