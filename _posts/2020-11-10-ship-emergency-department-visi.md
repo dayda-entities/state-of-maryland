@@ -1,23 +1,21 @@
 ---
-title: SHIP Emergency Department Visit Rate For Dental Care 2008-2017
-created: '2020-11-10T17:25:40.688452'
-modified: '2020-11-10T17:25:40.688462'
+title: SHIP Emergency Department Visits Related To Mental Health Conditions 2008-2017
+created: '2020-11-10T17:25:49.748530'
+modified: '2020-11-10T17:25:49.748537'
 state: active
 type: dataset
 tags:
-  - Dental
   - Ed
   - Emergency Department
-  - Hscrc
-  - Mdh
+  - Mental Health
   - Ship
-  - State Health Improvementprocess
+  - State Health Improvement Process
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/uwst-7igm/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/xiqr-nb66/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/uwst-7igm/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/xiqr-nb66/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Emergency Department Visit Rate For Dental Care - This indicator shows the emergency department visit rate related to dental problems (per 100,000 population). The utilization of dental services in Emergency departments has steadily risen over the last decade. Dental Emergency department visits are growing as a percentage of all Emergency department visits throughout the United States. In 2014, there were 52,631 outpatient dental visits in Emergency department in Maryland.
+Emergency Department Visits Related To Mental Health Conditions - This indicator shows the rate of emergency department visits related to mental health disorders* (per 100,000 population). Mental health problems can place a heavy burden on the healthcare system, particularly when persons in crisis utilize emergency departments instead of other sources of care when available. In Maryland, there were 207,650 mental health disorder-related emergency department visits in 2014.*Diagnoses include adjustment disorders, anxiety disorders, attention deficit disorders, disruptive behavior disorders, mood disorders, personality disorders, schizophrenia, and other psychotic disorders, suicide and intentional self-inflicted injury and miscellaneous mental disorders.
