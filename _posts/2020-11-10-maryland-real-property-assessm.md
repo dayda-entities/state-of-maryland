@@ -1,7 +1,7 @@
 ---
-title: Maryland Real Property Assessments Fields Reference
-created: '2020-11-10T17:25:45.372735'
-modified: '2020-11-10T17:25:45.372746'
+title: Maryland Real Property Assessments Hidden Property Owner Names
+created: '2020-11-10T17:24:39.279063'
+modified: '2020-12-04T19:14:40.707902'
 state: active
 type: dataset
 tags:
@@ -23,10 +23,10 @@ tags:
   - Value
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/w8th-47fz/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/ed4q-f8tm/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/w8th-47fz/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/ed4q-f8tm/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This dataset is a supplement to the statewide dataset of Real Property Assessments, at https://opendata.maryland.gov/view/sjn4-j6z3, which shows all properties in the state and assessment data from SDAT and MDP.
+Please read all metadata before accessing the dataset. Note that records shown here are updated at different frequencies from data in products from MDP and SDAT. Please see the full documentation at https://opendata.maryland.gov/api/views/ed4q-f8tm/files/WtRzMltUzm25OasOCYtu7PgOGUfrplWsZTalSH4Iukg?download=true&filename=Real%20Property%20Records%20Documentation.pdf and review the dedicated metadata site (https://opendata.maryland.gov/dataset/Beta-Maryland-Statewide-Real-Property-Assessments-/ed4q-f8tm/about).
