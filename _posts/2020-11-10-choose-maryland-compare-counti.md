@@ -1,23 +1,23 @@
 ---
-title: Choose Maryland  Compare Counties - Transportation
-created: '2020-11-10T17:24:57.570307'
-modified: '2020-11-10T17:24:57.570318'
+title: Choose Maryland  Compare Counties - Geography
+created: '2020-11-10T17:25:09.546705'
+modified: '2020-11-10T17:25:09.546715'
 state: active
 type: dataset
 tags:
-  - Airport
-  - Commute
   - Compare
   - County
+  - Elevation
+  - Geography
+  - Land Area
   - Maryland
-  - Transportation
-  - Travel Time
+  - Shoreline
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/ief7-i74z/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/mfac-nzpe/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/ief7-i74z/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/mfac-nzpe/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Workforce travel habits - commute times and destinations.
+Portrait of county land / land use - area, elevations, and shoreline.
