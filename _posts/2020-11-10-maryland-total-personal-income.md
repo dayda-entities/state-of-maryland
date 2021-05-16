@@ -1,11 +1,11 @@
 ---
-title: Maryland Total Personal Income (Thousands of Current Dollars) 2010-2018
-created: '2020-11-10T17:25:08.087749'
-modified: '2020-11-10T17:25:08.087760'
+title: Maryland Total Personal Income (Thousands of Constant 2012 Dollars) 2010-2018
+created: '2020-11-10T17:23:55.303037'
+modified: '2020-11-10T17:23:55.303047'
 state: active
 type: dataset
 tags:
-  - Current
+  - Constant
   - Income
   - Mdp
   - Personal
@@ -13,10 +13,10 @@ tags:
   - Total
 groups:
   - Local Government
-csv_url: 'https://opendata.maryland.gov/api/views/m4dq-89ja/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://opendata.maryland.gov/api/views/4dhw-3gak/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://opendata.maryland.gov/api/views/m4dq-89ja/rows.json?accessType=DOWNLOAD
+  https://opendata.maryland.gov/api/views/4dhw-3gak/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Maryland Total Personal Income (thousands of current dollars) from 2010 to 2018. Based on Data from U.S. Bureau of Economic Analysis
+Maryland Total Personal Income in thousands of Constant 2012 Dollars from 2010 to 2018. Source Data from U.S Bureau of Economic Analysis (Table CA5N)
