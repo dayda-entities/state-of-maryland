@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Seal_of_Maryland_%28reverse%29.svg/200px-Seal_of_Maryland_%28reverse%29.svg.png
+profile_pic: 'https://directory.dayda.org/assets/img/entities/state-of-maryland.png'
 favicon: /assets/img/favicon.png
 url: 'http://state-of-maryland.dayda.org'
 encoding: utf-8
